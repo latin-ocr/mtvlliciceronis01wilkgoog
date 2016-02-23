@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtvlliciceronis01wilkgoog/mtvlliciceronis01wilkgoog_0006.png"; bbox 0 0 2626 4214; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 166 324 1198 672">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 166 324 1198 672">
+     <span class='ocr_line' id='line_1_1' title="bbox 166 324 1198 427; baseline -0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 166 329 577 426; x_wconf 89' lang='lat' dir='ltr'>SCRIPTORVM</span> <span class='ocrx_word' id='word_1_2' title='bbox 617 329 1071 427; x_wconf 84' lang='lat' dir='ltr'><strong>CLASSICORVM</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1192 324 1198 333; x_wconf 80' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 190 573 1046 672; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 190 575 619 672; x_wconf 85' lang='lat' dir='ltr'><strong>BIBLIOTHECA</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 653 573 1046 672; x_wconf 86' lang='lat' dir='ltr'><strong>OXONIENSIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 189 3479 1052 3688">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 189 3479 1052 3688">
+     <span class='ocr_line' id='line_1_3' title="bbox 503 3479 736 3561; baseline -0.009 0"><span class='ocrx_word' id='word_1_6' title='bbox 503 3479 736 3561; x_wconf 86' lang='lat' dir='ltr'>0XON11</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 189 3609 1052 3688; baseline 0.015 -13"><span class='ocrx_word' id='word_1_7' title='bbox 189 3609 222 3676; x_wconf 71' lang='grc' dir='ltr'><em>ε</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 251 3612 607 3685; x_wconf 71' lang='lat' dir='ltr'><strong>‘mocmnsso</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 639 3621 1052 3688; x_wconf 67' lang='lat' dir='ltr'>cumnomno</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1318 4214">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1318 4214">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1318 4214; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1318 4214; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
